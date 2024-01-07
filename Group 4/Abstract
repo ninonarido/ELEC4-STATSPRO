@@ -1,0 +1,15 @@
+Abstract of the Research
+
+Art and Culture are the least explored topics in the field of Computer Vision and Machine learning research, even so culture represents 
+the identity of a certain group of people, on the other hand, art is interchangeably used when describing the culture, art represents the culture 
+and culture represents identity. With the emergence of the digital age and modern digital arts, the cultural art style of the Philippines is slowly 
+vanishing because of the influence of foreign art styles and new methods of creating arts. In this study, the researchers’ objective is to promote 
+the Cultural art style of the Philippines by using modern approaches. Specifically, by using computational and machine learning techniques, 
+the researchers used the Neural style transfer method introduced by Gatys et.al. Neural style transfer is based on the VGG-Network model, 
+a 19 layered Convolutional Neural Network. In the said development of the model, cultural painting images were gathered as training data and as a target domain.
+However Filipino artworks contain unique features and patterns, in that case domain adaptation will be applied. Domain adaptation, 
+a transfer learning technique to improve the quality of images that the model produces. By using these techniques, the content image will be blended or 
+mixed with the style image which will produce a stylized image as its output. The Neural Style Transfer optimized model will be deployed to an application 
+that blends modern or digital images and artworks into Filipino style (art style), with this the researchers' objective can be achieved. 
+
+
